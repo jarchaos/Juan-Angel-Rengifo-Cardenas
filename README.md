@@ -1,6 +1,6 @@
 # Juan-Angel-Rengifo-Cardenas
 # 💫 About Me:
-👨‍💻 FullStack developer<br>+ 1 años de experiencia<br>Me gusta mucho asumir retos y aprender de ellos
+👨‍💻 FullStack developer<br>+ 1 years of expirience<br>I like to asume challenges and learn about they.
 
 
 # 💻 Tech Stack:
